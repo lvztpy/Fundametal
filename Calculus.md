@@ -25,4 +25,14 @@ y-axes, x-axes
 >>>the variables in the formula behave.
 
 
+Hence the **instantaneous speed** is obtained by a totally new process, namely, by finding the *limit* of average speeds.
+
+**The increment**  h, h-->0,  k/h  h approached to 0;
+
+
+lim t->0  instant v = ds/dt
+
+**The process of applying the method of increments to obtain the derivative is called *differentiation* **
+
+the differentiation of *Simple Monomials* and *Polynomial* 
 
